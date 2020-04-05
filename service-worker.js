@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0ecc3f0c7c651989ad32c9ef3a62a6c8.js"
+  "/precache-manifest.c1ebed975c8ba6eca98bb302fbe30fc6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "udo"});
