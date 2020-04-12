@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1d22e3e7dd414c69e1d3fa7ddcee9bee.js"
+  "/precache-manifest.fb3c883e69b2ea70b12ae802682ff476.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "udo"});
+workbox.core.setCacheNameDetails({prefix: "samomes"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
