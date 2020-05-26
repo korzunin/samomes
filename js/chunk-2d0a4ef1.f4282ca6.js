@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a4ef1"],{"090b":function(e,i,t){"use strict";t.r(i),i["default"]={en:{routes:{tanks:"Fish tanks",recipes:"Recipies",schedules:"Schedule",remineralization:"Remineralization",dinamics:"Dinamics",about:"About",settings:"Settings",Github:"Github"},guid:{start:"Lets get started",add_tank:"Add fish tank",add_recipe:"Add recipe",add_schedule:"Add schedule",where_am_i:"Where am I?"}}}}}]);
+//# sourceMappingURL=chunk-2d0a4ef1.f4282ca6.js.map
