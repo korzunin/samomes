@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.af0f55ae805fff459096ea9402d7a6a0.js"
+  "/precache-manifest.ce6fb1b0cbdca96f8705cb8f0b46fd8b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "samomes"});
